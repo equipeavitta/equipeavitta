@@ -27,7 +27,6 @@ _Nosso objetivo é facilitar essa comunicação entre profissionais e pacientes,
 
 ### - _Contatos_
 
+> [![Email](https://img.shields.io/badge/Gmail-7b89b2?style=for-the-badge&logo=gmail&logoColor=white)](equipeavitta@gmail.com)
 
-
-
-
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-8b5e34?style=flat&logo=instagram&logoColor=white)]() -->
