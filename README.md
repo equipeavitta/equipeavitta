@@ -1,16 +1,23 @@
-## Hi there 👋
+### _Bem-vindos ao Avitta_
 
-<!--
-**equipeavitta/equipeavitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+### _Sobre a Avitta_
+_O Avitta é um projeto que visa desenvolver uma aplicação para auxiliar profissionais da saúde no acompanhamento e manutenção da saúde de seus pacientes._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Sabemos que gerenciar diversos pacientes que necessitam de acompanhamento contínuo pode ser um desafio, especialmente quando envolve lembretes de consultas, exames e cuidados diários._
+
+_Nosso objetivo é facilitar essa comunicação entre profissionais e pacientes, tornando as informações mais acessíveis, rápidas e organizadas. Assim, tanto os profissionais podem acompanhar melhor seus pacientes, quanto os pacientes conseguem manter maior controle sobre suas rotinas de saúde._
+  
+***
+
+### _Tecnologias_
+> ![ Flutter ](https://img.shields.io/badge/Flutter-7b89b2?style=for-the-badge&logo=flutter&logoColor=white)
+> ![ Dart ](https://img.shields.io/badge/Dart-7b89b2?style=for-the-badge&logo=dart&logoColor=white)
+
+***
+
+### _Equipe_
+
+
+
